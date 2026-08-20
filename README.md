@@ -1,3 +1,6 @@
 https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload&code_challenge=p2eUZPMyQ8BxP8TUqPhQ7VpuCxUwCQQYMCFsSkT_qBE&code_challenge_method=S256&state=zei1XB0wtr3UX0c3kog0ec1mtF1-di6clAOg_JYsvt8
 
 PpfTfnz9iMEJ6D4axXXyh9qAwg7Gz4sY3ODi2n8u7ao1snzB#zei1XB0wtr3UX0c3kog0ec1mtF1-di6clAOg_JYsvt8
+
+
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http://localhost:9614/callback&scope=org:create_api_key+user:profile+user:inference+user:sessions:claude_code+user:mcp_servers+user:file_upload&code_challenge=QlmFeibx0Cx1u-OXrHuWMRo4rEtkALBiK6_0G-8DK7w&code_challenge_method=S256&state=QA-1BYGJnlLCAHAELzRnJJF2OT-QFcRhLqMwgXxCEaM
